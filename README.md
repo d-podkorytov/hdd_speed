@@ -1,6 +1,7 @@
-HDD Speed tests from Dmitry Podkorytov
+# HDD Speed tests
 
 ======================================
+## ABOUT
 
 This is very old code, about 1991 I use it for testing speed of file operations.
 It was my fist steps in C, dont judge me hard.
@@ -26,15 +27,15 @@ In some versions size of file posible assign in argv[1] but not here.
 
 ================
 
-DEPENDENCIES
+## DEPENDENCIES
 
 gcc make
 
-INSTALLATION
+## INSTALLATION
 
 $make
 
-RUN TESTS AND SEE RESULTS
+## RUN TESTS AND SEE RESULTS
 
 $./hdds.c.bin
 Writing to test.hdds 
